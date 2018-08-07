@@ -1,0 +1,6 @@
+/Users/teeking/gtzb/sg_cs/web_form01/web_form01/bin/web_form01.dll
+/Users/teeking/gtzb/sg_cs/web_form01/web_form01/bin/web_form01.pdb
+/Users/teeking/gtzb/sg_cs/web_form01/web_form01/obj/Debug/web_form01.csproj.CoreCompileInputs.cache
+/Users/teeking/gtzb/sg_cs/web_form01/web_form01/obj/Debug/web_form01.dll
+/Users/teeking/gtzb/sg_cs/web_form01/web_form01/obj/Debug/web_form01.pdb
+/Users/teeking/gtzb/sg_cs/web_form01/web_form01/obj/Debug/web_form01.csprojResolveAssemblyReference.cache

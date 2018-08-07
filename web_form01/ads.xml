@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<!--每次打开都不一样-->
+<Advertisements>
+    <Ad>
+        <ImageUrl>http://vwhm.net/beyond.jpg</ImageUrl>
+        <NavigateUrl>http://vwhm.net</NavigateUrl>
+        <AlternateText>
+            Hello Beyond
+        </AlternateText>
+
+        <Impressions>
+            20
+        </Impressions>
+
+        <Keyword>
+            Beyond
+        </Keyword>
+    </Ad>
+
+    <Ad>
+        <ImageUrl>http://vwhm.net/beyond1.jpg</ImageUrl>
+        <NavigateUrl>http://vwhm.net1</NavigateUrl>
+        <AlternateText>
+            Hello Beyond
+        </AlternateText>
+
+        <Impressions>
+            20
+        </Impressions>
+
+        <Keyword>
+            Beyond
+        </Keyword>
+    </Ad>
+
+    <Ad>
+        <ImageUrl>http://vwhm.net/beyond2.jpg</ImageUrl>
+        <NavigateUrl>http://vwhm.net2</NavigateUrl>
+        <AlternateText>
+            Hello Beyond
+        </AlternateText>
+
+        <Impressions>
+            20
+        </Impressions>
+
+        <Keyword>
+            Beyond
+        </Keyword>
+    </Ad>
+
+    <Ad>
+        <ImageUrl>http://vwhm.net/beyond.jpg</ImageUrl>
+        <NavigateUrl>http://vwhm.net</NavigateUrl>
+        <AlternateText>
+            Hello Beyond
+        </AlternateText>
+
+        <Impressions>
+            20
+        </Impressions>
+
+        <Keyword>
+            Beyond
+        </Keyword>
+    </Ad>
+</Advertisements>
